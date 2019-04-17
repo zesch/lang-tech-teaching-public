@@ -1,0 +1,103 @@
+/* Style des gesamten Dokuments */
+#notebook-container {
+	font-family: "NimbusMonL-ReguObli";
+	font-size: 120%
+}
+
+/* Style für die Überschrift: Zentriert diese und stellt sie fett dar. */
+.headline {
+	text-align: center;
+	font-weight: bold;
+	font-size: 185.7%
+}
+
+/* Style für die Aufgabenbeschreibung. Z.B.: "Übung zum Thema..." */
+.description {
+	text-align: center;
+	font-size: 145.7%
+}
+
+/* Hebt das Abgabedatum fett und kursiv hervor */
+#submission {
+	font-weight: bold;
+}
+
+/* Style für das eigentliche Thema. Z.B.: "Intelligenz" */
+#topic {
+	font-style: italic;
+}
+
+.task_description {
+
+}
+
+/* Hebt die Aufgabennummerierung fett hervor. */
+.task {
+	font-style: normal;
+	font-weight: bold;
+}
+
+.points {
+	font-style: italic;
+}
+
+/* Style einer Code-Cell */
+.CodeMirror-code {
+	background-color: #ededed
+}
+
+/* Style eines Kommentars im Code ändern. */
+.cm-s-ipython span.cm-comment {
+
+}
+
+.cm-s-ipython span.cm-atom {
+
+}
+
+.cm-s-ipython span.cm-number {
+
+}
+
+/* Style eines Python-Keywords ändern */
+.cm-s-ipython span.cm-keyword {
+	color: #B000B0
+}
+
+.cm-s-ipython span.cm-def {
+
+}
+
+/* Style einer Python-Variable ändern */
+.cm-s-ipython span.cm-variable {
+	
+}
+
+/* Style einer Property ändern */
+.cm-s-ipython span.cm-property {
+	
+}
+
+/* Style eines Python-Operators ändern */
+.cm-s-ipython span.cm-operator {
+	
+}
+
+/* Style eines Python-Strings ändern */
+.cm-s-ipython span.cm-string {
+	color: brown;
+}
+
+/* Style einer eingebauten Funktion ändern (z.B. "open") */
+.cm-s-ipython span.cm-builtin {
+	
+}
+
+/* Hebt hervor, welche Klammern zueinander passen */
+.cm-s-ipython .CodeMirror-matchingbracket {
+	
+}
+
+.cm-s-ipython span.cm-variable-2 {
+
+}
