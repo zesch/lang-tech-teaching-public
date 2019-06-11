@@ -1,0 +1,1 @@
+Wikipedia condivide le risorse software e hardware con gli altri progetti della Wikimedia Foundation, in particolare il motore che interpreta il markup delle pagine (MediaWiki) e i server su cui sono salvati i database che contengono le pagine dell'enciclopedia.

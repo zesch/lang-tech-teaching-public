@@ -1,0 +1,1 @@
+Le succès croissant de Wikipédia nécessite l'emploi d'un grand nombre de serveurs informatiques qui fonctionnent tous avec un système d'exploitation GNU/Linux (principalement Ubuntu)[76]. Ces installations sont présentes à Tampa en Floride, à Amsterdam aux Pays-Bas, et dans le site sud-coréen d'hébergement de Yahoo! qui accueille 23 serveurs[Quand ?] de la Wikimedia Foundation.

@@ -1,0 +1,1 @@
+Die Datenbank „Wikidata“ stellte ab April 2012 als gemeinsame Quelle allgemeingültige Datentypen wie Lebensdaten zur Verfügung, die in allen Artikeln der Wikimedia-Projekte Verwendung finden können. So stehen seit dem 6. März 2013 die Verlinkungen auf Artikelversionen anderer Sprachen automatisch zur Verfügung.

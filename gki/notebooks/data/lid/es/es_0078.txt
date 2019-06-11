@@ -1,0 +1,1 @@
+Wikipedia se ejecuta sobre el software libre MediaWiki en un cluster —agrupación— de servidores situados en Florida y en otros lugares del mundo: 239 máquinas en Florida, 22 en Ámsterdam y 23 en las instalaciones coreanas de Yahoo![135]​ MediaWiki es la fase III del programa, cuya historia de desarrollo es la siguiente:
