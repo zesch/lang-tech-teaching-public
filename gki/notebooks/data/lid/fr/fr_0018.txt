@@ -1,1 +1,0 @@
-Depuis 2016, des applications mobiles contenant le corpus médical de l'encyclopédie ont également fait leur apparition sous Android, toujours grâce à Kiwix, sous le nom de WikiMed.

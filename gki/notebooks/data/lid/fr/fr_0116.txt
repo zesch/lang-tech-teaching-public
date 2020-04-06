@@ -1,1 +1,0 @@
-Le 12 juin 2015, la Wikimedia Foundation annonce l'utilisation du protocole de communication HTTPS pour tout le trafic Wikimedia, dans l'optique de contrer la surveillance de masse exercée par la NSA, qui profite en particulier des insuffisances du protocole de communication HTTP en matière de sécurité[126],[127].

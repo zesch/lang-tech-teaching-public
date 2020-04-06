@@ -1,1 +1,0 @@
-Un rédacteur peut être identifié par son adresse IP, ou par son pseudonyme s'il l'a enregistré sur le site.

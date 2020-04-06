@@ -1,1 +1,0 @@
-Сетевая топология с 2015 года. Серверные кластеры в США: Сан-Франциско — ulsfo (caching); Даллас, Техас — eqdfw (networking); Карролтон, Техас — codfw (application services); Чикаго, Иллинойс — eqord (networking); Ашберн, Виргиния — eqiad (application services). В Амстердаме — esams (Caching) и knams (Networking)

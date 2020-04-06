@@ -1,1 +1,0 @@
-Au sein de Wikipédia, les comptes utilisateurs disposent de différents statuts techniques gérés par le logiciel MediaWiki et contrôlant les actions qui leur sont permises[t]. Les critères pour acquérir un statut et la façon de se servir des capacités fournies sont fixés indépendamment par chaque communauté. Parmi ces statuts, les principaux sont :

@@ -1,1 +1,0 @@
-Researchers from Washington University developed a statistical model to measure systematic bias in the behavior of Wikipedia's users regarding controversial topics. The authors focused on behavioral changes of the encyclopedia's administrators after assuming the post, writing that systematic bias occurred after the fact.[205][206]
