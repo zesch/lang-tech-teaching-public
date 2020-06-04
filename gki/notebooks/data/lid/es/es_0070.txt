@@ -1,0 +1,1 @@
+En Wikipedia hay servicios que ofrecen la versión impresa. MediaWiki ha incorporado una herramienta de recolección para exportar artículos a ODF o PDF.[121]​ También existe la posibilidad de imprimir libros vía PediaPress, un programa socio de la fundación Wikimedia, mediante la misma solicitud.[122]​

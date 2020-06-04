@@ -1,0 +1,1 @@
+Obter o conteúdo completo da Wikipédia para reutilização apresenta desafios, uma vez que a cópia direta através de um web crawler é desencorajada.[101] A Wikipédia publica "dumps" de seu conteúdo, mas estes consistem apenas de texto; em 2007 não havia dumps disponíveis de imagens da Wikipédia.[102]

@@ -1,0 +1,1 @@
+Sur chaque page, un onglet permet d'accéder à son code source au format wiki, permettant sa modification. En plus de la page de discussion attachée à un article, un historique permet de lister les auteurs et de consulter les modifications successives de l'article par ses rédacteurs.

@@ -1,0 +1,1 @@
+Obtaining the full contents of Wikipedia for reuse presents challenges, since direct cloning via a web crawler is discouraged.[278] Wikipedia publishes "dumps" of its contents, but these are text-only; as of 2007[update] there was no dump available of Wikipedia's images.[279]

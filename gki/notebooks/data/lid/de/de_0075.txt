@@ -1,0 +1,1 @@
+Wikipedia-Server verarbeiten zwischen 25.000 und 60.000 Zugriffe pro Sekunde, je nach Tageszeit. Teilweise kommt es dabei zu Kapazitätsengpässen, die etwa dazu führen, dass Seiten nur langsam oder gar nicht geladen werden können.

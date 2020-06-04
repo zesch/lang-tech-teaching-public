@@ -1,0 +1,1 @@
+In April 2005, a Lucene extension[230][231] was added to MediaWiki's built-in search and Wikipedia switched from MySQL to Lucene for searching. The site currently uses Lucene Search 2.1,[232][needs update] which is written in Java and based on Lucene library 2.3.[233]

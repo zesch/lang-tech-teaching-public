@@ -1,0 +1,1 @@
+Na OOPSLA de 2009, o CTO da Wikimedia Brion Vibber fez uma apresentação intitulada "Otimização de Desempenho da Comunidade: Fazendo a sua Equipe Funcionar Tão Bem Quanto o Seu Site" em que discutiu os desafios de lidar com as contribuições de uma grande comunidade e comparou o processo com o de desenvolvimento de softwares.[130]

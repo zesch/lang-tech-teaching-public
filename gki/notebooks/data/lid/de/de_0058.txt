@@ -1,0 +1,1 @@
+In allen Namensräumen hat jede Seite eine ihr zugeordnete Diskussionsseite. Die Diskussionsseiten können prinzipiell genauso wie normale Seiten bearbeitet werden. Hier gibt es jedoch bestimmte eigene Konventionen, wie die Signierung und das Einrücken von Diskussionsbeiträgen, um den Diskussionsverlauf erkenntlich zu machen.

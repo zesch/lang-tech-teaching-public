@@ -1,0 +1,1 @@
+Les dumps (sauvegardes) des projets Wikimedia sont disponibles en ligne et — théoriquement — téléchargeables par tout un chacun. Ils sont cependant particulièrement encombrants, dépassant souvent plusieurs dizaines, voire centaines de gigaoctets.

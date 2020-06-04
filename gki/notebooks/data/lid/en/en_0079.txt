@@ -1,0 +1,1 @@
+Wikipedia has a "Volunteer Response Team" that uses the OTRS system to handle queries without having to reveal the identities of the involved parties. This is used, for example, in confirming the permission for using individual images and other media in the project.[217]
